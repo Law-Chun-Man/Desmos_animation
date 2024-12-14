@@ -9,3 +9,7 @@
    * OpenCV
    * Pillow
    * Selenium
+
+## 使用
+
+下载`desmos_animation`文件夹，然后在`path.py`改写文件夹的路径。跑`main.py`即可。
