@@ -12,7 +12,7 @@
 
 ## 使用 / Usage
 
-下载`desmos_animation`文件夹，然后在`path.py`改写文件夹的路径。跑`main.py`即可。
+下载`desmos_animation`文件夹，然后在`path.py`改写文件夹的路径。跑`main.py`即可。  
 Download `desmos_animation` folder, then change the path declared in path.py. Finally, run `main.py`.
 
 ## 影片例子 / Example video
