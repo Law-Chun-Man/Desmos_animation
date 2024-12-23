@@ -1,5 +1,9 @@
 # Desmos 动画 python 代码 / Python code for desmos animation
 
+## 效果 / Result
+
+
+
 ## 下载 / Downloads
 
 1. 开源软件 / Open source software
@@ -19,7 +23,3 @@ If you are not using Windows, please change the magick and potrace command in `j
 
 下载`desmos_animation`文件夹，然后在`path.py`改写文件夹的路径。跑`main.py`即可。  
 Download `desmos_animation` folder, then change the path declared in path.py. Finally, run `main.py`.
-
-## 影片例子 / Example video
-
-
